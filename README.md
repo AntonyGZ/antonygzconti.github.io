@@ -1,5 +1,5 @@
 # antonygzconti.github.io
-**CODIGO EN MARCHA**
+# **CODIGO EN MARCHA**
 # Generador de Historias Básico
 
 Este proyecto es un generador de historias simples que combina personajes, lugares y objetos de manera aleatoria para crear historias únicas.
